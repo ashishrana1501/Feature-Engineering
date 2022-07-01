@@ -5,6 +5,7 @@ This particular notebook consist of all the Feature Engineering technique and Fe
 **What are the different types of Missing Data?**
 
 1} Missing Completely at Random, MCAR:
+
 2} Missing Data Not At Random(MNAR): Systematic missing Values
 
 **Missing At Random(MAR)**
